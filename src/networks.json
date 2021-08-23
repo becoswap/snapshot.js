@@ -445,5 +445,17 @@
       "https://celo-mainnet--rpc.datahub.figment.io/apikey/e892a66dc36e4d2d98a5d6406d609796/"
     ],
     "explorer": "https://explorer.celo.org"
+  },
+  "138": {
+    "key": "138",
+    "name": "Kardiachain Mainnet",
+    "shortName": "Kardiachain",
+    "chainId": 138,
+    "network": "mainnet",
+    "multicall": "0xb7B85166F948838F5Fd6Fc80a6B933B81Dec7891",
+    "rpc": [
+      "https://rpc.kardiachain.io"
+    ],
+    "explorer": "https://explorer.kardiachain.io"
   }
 }
